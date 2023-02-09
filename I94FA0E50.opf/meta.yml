@@ -1,0 +1,16 @@
+id: I94FA0E50
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:05:25.413060
+last_modified: 2023-02-10 00:05:25.413207
+source_metadata:
+  title: 'MSV 2,01: Vinayavibhaṅga'
+  language: bo
+bases:
+  33E9:
+    base_file: 33E9.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
